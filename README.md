@@ -26,6 +26,6 @@
 
 ## Executar o projeto
 
-- Clone o repo `git clone`
+- Clone o repo `git clone https://github.com/ronaldprofile/dtmoney-ignite.git`
 - Instale as dependências `yarn`
 - Execute o servidor `yarn start`
